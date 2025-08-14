@@ -52,7 +52,7 @@ const Thalib = {
     DB:     ['PostgreSQL', 'MongoDB'],
     Tools:  ['Prometheus', 'GitHub Actions', 'Jenkins'],
   },
-  certs: ['GitHub Foundations', Docker Foundations, Terraform Foundation],
+  certs: ['GitHub Foundations', 'Docker Foundations', 'Terraform Foundation'],
 };
 ````
 
