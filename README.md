@@ -10,22 +10,13 @@
     <img 
       src="https://img.shields.io/badge/LinkedIn-LinkedIn-24283B?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn" />
- <!-- </a>
-  <a href="https://lohit.is-a.dev/">
-    <img 
-      src="https://img.shields.io/badge/Website-Website-24283B?style=for-the-badge&logo=google-chrome&logoColor=white" 
-      alt="Website" />
+
   </a> -->
   <a href="https://github.com/thalib-dev">
     <img 
       src="https://img.shields.io/badge/GitHub-GitHub-24283B?style=for-the-badge&logo=github&logoColor=white" 
       alt="GitHub" />
- <!-- </a>
-  <a href="https://www.npmjs.com/package/lohitkolluri">
-    <img 
-      src="https://img.shields.io/badge/CLI-npx_lohitkolluri-24283B?style=for-the-badge&logo=npm&logoColor=white" 
-      alt="CLI Card" />
-  </a>-->
+    
 </div>
 
 <p align="center">
@@ -78,12 +69,6 @@ const Thalib = {
   GitHub Analytics
 </h2>
 
-<!-- Basic Stats + Streaks 
-<p align="center">
-  <img width="49%" src="https://lohit-readme-stats.vercel.app/api?username=lohitkolluri&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&show_owner=true&rank_icon=percentile&count_private=true"/>
-  <img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=lohitkolluri&theme=tokyonight&hide_border=true&background=00000000"/>
-</p>
-
 <!-- Contribution Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thalib-dev&theme=tokyo-night&hide_border=true&bg_color=00000000" />
@@ -99,7 +84,4 @@ const Thalib = {
 </p>
 
 <div align="left">
-<!--
-  [![@lohitkolluri's Holopin badges](https://holopin.me/lohitkolluri)](https://holopin.io/@lohitkolluri)
--->
 </div>
