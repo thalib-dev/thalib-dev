@@ -11,7 +11,7 @@
       src="https://img.shields.io/badge/LinkedIn-LinkedIn-24283B?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn" />
 
-  </a> -->
+  </a>
   <a href="https://github.com/thalib-dev">
     <img 
       src="https://img.shields.io/badge/GitHub-GitHub-24283B?style=for-the-badge&logo=github&logoColor=white" 
